@@ -57,10 +57,13 @@ ul {
   display: flex;
   justify-content: flex-start;
   align-items: center;
+  padding: 8px;
 }
 
 .rside {
   display: flex;
   justify-content: flex-end;
   align-items: center;
+  padding: 8px;
+  gap: 1rem;
 }
