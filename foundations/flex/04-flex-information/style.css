@@ -29,4 +29,7 @@ img {
 }
 .items {
   padding-top: 32px;
+  display: flex;
+  justify-content: center;
+  gap: 52px;
 }
