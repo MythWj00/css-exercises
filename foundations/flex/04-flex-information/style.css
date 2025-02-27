@@ -2,7 +2,7 @@ body {
   font-family: 'Courier New', Courier, monospace;
   display: flex;
   flex-direction: column;
-  align-items: center;
+  text-align: center;
 }
 
 img {
@@ -32,4 +32,8 @@ img {
   display: flex;
   justify-content: center;
   gap: 52px;
+  flex-wrap: wrap;
+}
+.item {
+  width: 200px;
 }
