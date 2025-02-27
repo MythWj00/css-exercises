@@ -27,3 +27,6 @@ img {
   justify-content: center;
   background: #eee;
 }
+.items {
+  padding-top: 32px;
+}
