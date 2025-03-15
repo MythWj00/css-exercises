@@ -18,6 +18,7 @@ button {
   border: none;
   border-radius: 8px;
   background: #eee;
+  padding: 1rem;
 }
 
 input {
@@ -51,4 +52,5 @@ ul {
   flex-direction: column;
   justify-content: center;
   flex: 1;
+  gap: 1rem ;
 }
