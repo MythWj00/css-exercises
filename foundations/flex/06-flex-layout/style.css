@@ -28,24 +28,18 @@ input {
 }
 .header {
   display: flex;
-  flex-direction: column;
   padding: 1rem;
+  justify-content: space-between;
 }
 
 .footer {
   display: flex;
-  flex-direction: column;
   padding: 1rem;
   background-color: #eeeeee;
+  justify-content: space-between;
 }
 
-.left-links {
-  align-self: flex-start;
-}
 
-.right-links {
-  align-self: flex-end;
-}
 ul {
   list-style: none;
   display: flex;
