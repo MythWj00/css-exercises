@@ -35,3 +35,11 @@ input {
   flex-direction: column;
   padding: 1rem;
 }
+
+.left-links {
+  align-self: flex-start;
+}
+
+.right-links {
+  align-self: flex-end;
+}
